@@ -99,6 +99,17 @@
                                                         '{{ $category->audit_category_name }}',
                                                         '{{ $category->audit_category_desc }}')" class="btn btn-icon btn-sm me-2" data-bs-toggle="modal" data-bs-target="#kt_modal_edit_audit_category" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Edit">
                                                 <i class="mdi mdi-square-edit-outline fs-3 text-black"></i>
+                                                erp cpanel
+<!--                                                 https://vps96118.inmotionhosting.com:2083/logout/?locale=en
+                                                
+                                                user :  elysium
+                                                OneTeamOneDream@EAPL
+                                                
+                                                etpl cpanel
+                                                https://erp.elysiumtechnologies.com:2083/
+                                                
+                                                erpelysiumtechno
+                                                ERP@etpl@2025@$$ -->
                                             </a>
                                             <a href="#" onclick="confirmDelete('{{ $category->sno }}',
                                                 '{{ $category->audit_category_name }}',
